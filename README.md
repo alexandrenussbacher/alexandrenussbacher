@@ -8,7 +8,7 @@
 
 * Vontade em adquirir novos conhecimentos e interesse em desenvolver minhas habilidades em análise e ciência de dados.
 
-* Paixão por matemática, raciocínio lógico, estatística e futebol (fanático pelo São Paulo Futebol Clube).
+* Paixão por matemática, raciocínio lógico, estatística e futebol.
 
 <!--
 **alexandrenussbacher/alexandrenussbacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
