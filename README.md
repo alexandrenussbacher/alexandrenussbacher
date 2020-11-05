@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-* Recém graduado em Engenharia de Produção na Universidade Presbiteriana Mackenzie
+* Recém graduado em Engenharia de Produção na Universidade Presbiteriana Mackenzie.
 
 * Vontade em adquirir novos conhecimentos e interesse em desenvolver minhas habilidades em análise e ciência de dados.
 
