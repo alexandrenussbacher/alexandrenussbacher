@@ -1,6 +1,6 @@
 # Alexandre Nussbacher
 
-![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)(linkedin.com/in/alexandre-nussbacher-62ab8a169)
 
 ## Sobre mim
 
