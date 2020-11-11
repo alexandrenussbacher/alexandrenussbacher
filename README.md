@@ -4,11 +4,11 @@
 
 ## Sobre mim
 
-* Cursando o último semestre de Engenharia de Produção na Universidade Presbiteriana Mackenzie.
+* 🎓 Graduado em Engenharia de Produção na Universidade Presbiteriana Mackenzie.
 
-* Vontade em adquirir novos conhecimentos e interesse em desenvolver minhas habilidades em análise e ciência de dados.
+* 📚 Vontade em adquirir novos conhecimentos e interesse em desenvolver minhas habilidades em análise e ciência de dados.
 
-* Paixão por matemática, raciocínio lógico, estatística e futebol.
+* ❤️ Paixão por matemática, raciocínio lógico, estatística e futebol.
 
 <!--
 **alexandrenussbacher/alexandrenussbacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
