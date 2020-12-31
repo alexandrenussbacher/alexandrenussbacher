@@ -6,7 +6,7 @@
 
 * 🎓 Graduado em Engenharia de Produção na Universidade Presbiteriana Mackenzie.
 
-* 📚 Vontade em adquirir novos conhecimentos e interesse em desenvolver minhas habilidades em análise e ciência de dados.
+* 📚 Vontade em adquirir novos conhecimentos e desenvolver minhas habilidades em análise e ciência de dados.
 
 * ❤️ Paixão por matemática, raciocínio lógico, estatística e futebol.
 
