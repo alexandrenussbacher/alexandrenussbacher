@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-* 🎓 Graduado em Engenharia de Produção na Universidade Presbiteriana Mackenzie.
+* 🎓 Graduado em Engenharia de Produção na Universidade Presbiteriana Mackenzie, especializado em Análise de Dados no bootcamp da Ironhack.
 
 * 📚 Vontade em adquirir novos conhecimentos e desenvolver minhas habilidades em análise e ciência de dados.
 
