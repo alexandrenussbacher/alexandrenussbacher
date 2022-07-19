@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-* 🎓 Graduado em Engenharia de Produção na Universidade Presbiteriana Mackenzie, especializado em análise e ciência de dados.
+* 🎓 Graduado em Engenharia de Produção na Universidade Presbiteriana Mackenzie, especializado em análise e ciência de dados e com experiência no mercado do futebol.
 
 * ❤️ Paixão por matemática, raciocínio lógico, estatística e futebol.
 
